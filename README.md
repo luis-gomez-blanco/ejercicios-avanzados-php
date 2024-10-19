@@ -11,3 +11,22 @@ color de fondo, y con otro, el color de la letra. Mediante dos checkbox se ha de
 la fuente es además cursiva o negrita. Si se envía el formulario se carga la misma página con el cambio de
 estilo. Por último, las opciones elegidas han de recordarse cuando se recargue la página. Ha de usar un
 archivo externo de CSS.
+
+
++-------------------+
+|   Nivel Externo    |
+| (Vistas de usuario)|
++-------------------+
+          |
+          v
++-------------------+
+|   Nivel Conceptual |
+| (Estructura global)|
++-------------------+
+          |
+          v
++-------------------+
+|   Nivel Interno    |
+| (Almacenamiento    |
+|  físico de datos)  |
++-------------------+

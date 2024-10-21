@@ -6,7 +6,7 @@
 
 2. Crear un programa que, implementando distintos estilos que provienen de un archivo externo CSS, permita elegir mediante dos desplegables el color de fondo de la página y el color de la fuente. Se incluirán también dos casillas de selección donde indicar la decoración, negrita y/o cursiva, de la tipografía. Al enviar el formulario se cargará la misma página, aplicando los cambios de estilo. Las opciones seleccionadas por el usuario deben mantenerse en el formulario tras la carga de la página.
 
-   *Bonus: 
+   *Bonus: Emplear un array que recojas las opciones desde el formulario* 
 
 4. Escribr un programa que permita al usuario introducir las temperaturas máximas y mínimas de las ciudades de Madrid, Barcelona, Sevilla y Bilbao (por ese orden) para cada uno de los meses del año. Se creará un array que sirva para rellenar dinámicamente con valores por defecto los elementos del formulario. Las temperaturas pueden tener valores decimales. Al enviar el formulario, el programa mostrará una tabla con los nombres de las ciudades ordenadas alfabéticamente y los datos
 correspondientes a la temperatura máxima, mínima y temperatura media del año en cada ciudad.
